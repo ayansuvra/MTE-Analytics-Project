@@ -1,0 +1,68 @@
+file_name,field_name,description,example_value
+patient_journey.csv,patient_id,"Patient funnel, lead, response, conversion, drop-off, and revenue fields",MTE-PAT-00001
+patient_journey.csv,inquiry_date,"Patient funnel, lead, response, conversion, drop-off, and revenue fields",2025-11-12 18:00:00
+patient_journey.csv,country,"Patient funnel, lead, response, conversion, drop-off, and revenue fields",Thailand
+patient_journey.csv,age_group,"Patient funnel, lead, response, conversion, drop-off, and revenue fields",40-49
+patient_journey.csv,gender,"Patient funnel, lead, response, conversion, drop-off, and revenue fields",Other/Not shared
+patient_journey.csv,treatment_category,"Patient funnel, lead, response, conversion, drop-off, and revenue fields",Oncology
+patient_journey.csv,provider_id,"Patient funnel, lead, response, conversion, drop-off, and revenue fields",PVD-022
+patient_journey.csv,lead_source,"Patient funnel, lead, response, conversion, drop-off, and revenue fields",Phone
+patient_journey.csv,coordinator_id,"Patient funnel, lead, response, conversion, drop-off, and revenue fields",COORD-08
+patient_journey.csv,budget_band,"Patient funnel, lead, response, conversion, drop-off, and revenue fields",Low
+patient_journey.csv,medical_urgency,"Patient funnel, lead, response, conversion, drop-off, and revenue fields",Routine
+patient_journey.csv,intent_score,"Patient funnel, lead, response, conversion, drop-off, and revenue fields",54.9
+patient_journey.csv,response_time_hours,"Patient funnel, lead, response, conversion, drop-off, and revenue fields",16.4
+patient_journey.csv,engagement_score,"Patient funnel, lead, response, conversion, drop-off, and revenue fields",52.5
+patient_journey.csv,consultation_booked,"Patient funnel, lead, response, conversion, drop-off, and revenue fields",0
+patient_journey.csv,quote_shared,"Patient funnel, lead, response, conversion, drop-off, and revenue fields",0
+patient_journey.csv,treatment_completed,"Patient funnel, lead, response, conversion, drop-off, and revenue fields",0
+patient_journey.csv,follow_up_completed,"Patient funnel, lead, response, conversion, drop-off, and revenue fields",0
+patient_journey.csv,current_stage,"Patient funnel, lead, response, conversion, drop-off, and revenue fields",First Response
+patient_journey.csv,drop_off_flag,"Patient funnel, lead, response, conversion, drop-off, and revenue fields",0
+patient_journey.csv,drop_off_stage,"Patient funnel, lead, response, conversion, drop-off, and revenue fields",
+patient_journey.csv,reason_for_drop_off,"Patient funnel, lead, response, conversion, drop-off, and revenue fields",
+patient_journey.csv,estimated_case_value_inr,"Patient funnel, lead, response, conversion, drop-off, and revenue fields",780855
+patient_journey.csv,actual_revenue_inr,"Patient funnel, lead, response, conversion, drop-off, and revenue fields",0
+patient_journey.csv,service_cost_inr,"Patient funnel, lead, response, conversion, drop-off, and revenue fields",0
+patient_journey.csv,satisfaction_score,"Patient funnel, lead, response, conversion, drop-off, and revenue fields",
+provider_master.csv,provider_id,"Provider capacity, region, specialty, and historical performance",PVD-001
+provider_master.csv,provider_name,"Provider capacity, region, specialty, and historical performance",MTE Partner Hospital 01
+provider_master.csv,region,"Provider capacity, region, specialty, and historical performance",South Asia
+provider_master.csv,country,"Provider capacity, region, specialty, and historical performance",UAE
+provider_master.csv,specialty_area,"Provider capacity, region, specialty, and historical performance",Cardiology
+provider_master.csv,bed_capacity,"Provider capacity, region, specialty, and historical performance",350
+provider_master.csv,international_patient_desk,"Provider capacity, region, specialty, and historical performance",Yes
+provider_master.csv,avg_first_response_hours,"Provider capacity, region, specialty, and historical performance",12.8
+provider_master.csv,historical_consultation_conversion_rate,"Provider capacity, region, specialty, and historical performance",0.312
+provider_master.csv,historical_treatment_conversion_rate,"Provider capacity, region, specialty, and historical performance",0.07
+provider_master.csv,follow_up_completion_rate,"Provider capacity, region, specialty, and historical performance",0.74
+provider_master.csv,satisfaction_index,"Provider capacity, region, specialty, and historical performance",72.5
+provider_master.csv,pricing_tier,"Provider capacity, region, specialty, and historical performance",Economy
+provider_master.csv,contract_status,"Provider capacity, region, specialty, and historical performance",Active
+communication_logs.csv,communication_id,Patient-provider/coordinator communication touchpoints,COMM-000001
+communication_logs.csv,patient_id,Patient-provider/coordinator communication touchpoints,MTE-PAT-00001
+communication_logs.csv,provider_id,Patient-provider/coordinator communication touchpoints,PVD-022
+communication_logs.csv,timestamp,Patient-provider/coordinator communication touchpoints,2025-11-13 15:08:55
+communication_logs.csv,channel,Patient-provider/coordinator communication touchpoints,Referral Partner
+communication_logs.csv,interaction_type,Patient-provider/coordinator communication touchpoints,Quote clarification
+communication_logs.csv,sent_by,Patient-provider/coordinator communication touchpoints,MedTourEasy Coordinator
+communication_logs.csv,response_sent,Patient-provider/coordinator communication touchpoints,1
+communication_logs.csv,response_delay_hours,Patient-provider/coordinator communication touchpoints,33.4
+communication_logs.csv,follow_up_status,Patient-provider/coordinator communication touchpoints,Completed
+treatment_outcomes.csv,patient_id,Completed treatment financial and outcome records,MTE-PAT-00002
+treatment_outcomes.csv,provider_id,Completed treatment financial and outcome records,PVD-022
+treatment_outcomes.csv,treatment_category,Completed treatment financial and outcome records,Fertility
+treatment_outcomes.csv,treatment_date,Completed treatment financial and outcome records,2025-07-05
+treatment_outcomes.csv,length_of_stay_days,Completed treatment financial and outcome records,15
+treatment_outcomes.csv,actual_revenue_inr,Completed treatment financial and outcome records,270529
+treatment_outcomes.csv,service_cost_inr,Completed treatment financial and outcome records,161988
+treatment_outcomes.csv,gross_margin_inr,Completed treatment financial and outcome records,108541
+treatment_outcomes.csv,readmission_within_30d,Completed treatment financial and outcome records,0
+treatment_outcomes.csv,follow_up_rating,Completed treatment financial and outcome records,10
+country_reference.csv,country,Reference table for markets and operational assumptions,India
+country_reference.csv,region,Reference table for markets and operational assumptions,Middle East
+country_reference.csv,avg_travel_lead_time_days,Reference table for markets and operational assumptions,36
+country_reference.csv,requires_medical_visa,Reference table for markets and operational assumptions,Yes
+country_reference.csv,currency,Reference table for markets and operational assumptions,AED
+country_reference.csv,baseline_response_expectation_hours,Reference table for markets and operational assumptions,8
+country_reference.csv,market_priority_score,Reference table for markets and operational assumptions,81

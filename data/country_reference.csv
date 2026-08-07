@@ -1,0 +1,13 @@
+country,region,avg_travel_lead_time_days,requires_medical_visa,currency,baseline_response_expectation_hours,market_priority_score
+India,Middle East,36,Yes,AED,8,81
+Bangladesh,Middle East,27,Yes,USD,12,57
+UAE,West Africa,24,Yes,PHP,8,74
+Oman,Middle East,24,Yes,BDT,12,76
+Kenya,East Africa,14,No,KES,12,89
+Nigeria,East Africa,11,Yes,NGN,6,92
+Tanzania,East Africa,12,Yes,MYR,8,75
+Nepal,West Africa,42,Yes,MYR,6,71
+Sri Lanka,South Asia,37,Yes,THB,6,78
+Malaysia,West Africa,14,Case-dependent,KES,8,62
+Philippines,East Africa,42,No,MYR,8,80
+Thailand,East Africa,45,Yes,BDT,12,79

@@ -1,0 +1,31 @@
+provider_id,provider_name,region,country,specialty_area,bed_capacity,international_patient_desk,avg_first_response_hours,historical_consultation_conversion_rate,historical_treatment_conversion_rate,follow_up_completion_rate,satisfaction_index,pricing_tier,contract_status
+PVD-001,MTE Partner Hospital 01,South Asia,UAE,Cardiology,350,Yes,12.8,0.312,0.07,0.74,72.5,Economy,Active
+PVD-002,MTE Partner Hospital 02,Middle East,Oman,Fertility,350,No,16.3,0.421,0.236,0.785,75.5,Economy,Active
+PVD-003,MTE Partner Hospital 03,West Africa,Nigeria,Dental,80,Yes,12.3,0.35,0.288,0.543,84.2,Economy,Pilot
+PVD-004,MTE Partner Hospital 04,Southeast Asia,Sri Lanka,Orthopedics,150,Yes,16.9,0.396,0.071,0.476,84.8,Economy,Active
+PVD-005,MTE Partner Hospital 05,East Africa,Tanzania,Orthopedics,150,No,20.4,0.31,0.127,0.498,63.2,Standard,Active
+PVD-006,MTE Partner Hospital 06,Southeast Asia,Nepal,Oncology,200,Yes,16.0,0.402,0.355,0.576,71.5,Premium,Active
+PVD-007,MTE Partner Hospital 07,East Africa,Nigeria,Cardiology,200,Yes,13.2,0.724,0.31,0.386,80.4,Economy,Pilot
+PVD-008,MTE Partner Hospital 08,West Africa,Thailand,Transplant Evaluation,250,Yes,9.1,0.525,0.231,0.466,82.6,Premium,Pilot
+PVD-009,MTE Partner Hospital 09,East Africa,Nepal,Fertility,80,Yes,16.3,0.474,0.167,0.71,77.2,Premium,Active
+PVD-010,MTE Partner Hospital 10,West Africa,Kenya,Neurology,250,Yes,20.7,0.307,0.177,0.5,68.4,Premium,Active
+PVD-011,MTE Partner Hospital 11,East Africa,India,Orthopedics,350,Yes,12.0,0.681,0.194,0.539,83.3,Premium,Active
+PVD-012,MTE Partner Hospital 12,Southeast Asia,Sri Lanka,Fertility,500,Yes,12.9,0.637,0.127,0.505,86.3,Economy,Active
+PVD-013,MTE Partner Hospital 13,East Africa,Bangladesh,Fertility,80,No,24.5,0.529,0.07,0.471,80.3,Premium,Pilot
+PVD-014,MTE Partner Hospital 14,Southeast Asia,Tanzania,Oncology,120,Yes,12.4,0.729,0.2,0.461,77.1,Premium,Active
+PVD-015,MTE Partner Hospital 15,West Africa,Bangladesh,Bariatric Surgery,150,Yes,8.7,0.382,0.196,0.637,81.8,Premium,Active
+PVD-016,MTE Partner Hospital 16,Middle East,Bangladesh,Orthopedics,250,Yes,15.3,0.273,0.194,0.764,90.8,Premium,Active
+PVD-017,MTE Partner Hospital 17,Southeast Asia,Tanzania,Transplant Evaluation,120,Yes,13.3,0.562,0.281,0.454,87.4,Premium,Active
+PVD-018,MTE Partner Hospital 18,South Asia,Bangladesh,Cardiology,120,Yes,16.1,0.497,0.252,0.742,71.4,Standard,Active
+PVD-019,MTE Partner Hospital 19,East Africa,Nepal,Transplant Evaluation,500,Yes,13.0,0.83,0.34,0.808,96,Economy,Active
+PVD-020,MTE Partner Hospital 20,West Africa,India,Transplant Evaluation,120,No,1.2,0.546,0.356,0.666,66.7,Standard,Active
+PVD-021,MTE Partner Hospital 21,West Africa,Oman,Bariatric Surgery,150,Yes,9.4,0.645,0.206,0.383,71.9,Economy,Active
+PVD-022,MTE Partner Hospital 22,Southeast Asia,UAE,Transplant Evaluation,80,Yes,10.4,0.453,0.251,0.573,63.7,Economy,Active
+PVD-023,MTE Partner Hospital 23,West Africa,Malaysia,Orthopedics,250,Yes,20.3,0.292,0.128,0.411,72.2,Standard,Active
+PVD-024,MTE Partner Hospital 24,East Africa,Philippines,Fertility,150,No,9.3,0.538,0.165,0.852,79.3,Economy,Active
+PVD-025,MTE Partner Hospital 25,West Africa,Kenya,Orthopedics,120,Yes,16.7,0.631,0.07,0.526,79.6,Premium,Active
+PVD-026,MTE Partner Hospital 26,Southeast Asia,Kenya,Bariatric Surgery,350,Yes,15.6,0.439,0.263,0.562,92.3,Economy,Active
+PVD-027,MTE Partner Hospital 27,Southeast Asia,Thailand,Oncology,150,Yes,11.9,0.344,0.07,0.497,89.6,Economy,Active
+PVD-028,MTE Partner Hospital 28,West Africa,UAE,Cosmetic Surgery,350,Yes,12.8,0.477,0.278,0.743,85.4,Premium,Pilot
+PVD-029,MTE Partner Hospital 29,Southeast Asia,Thailand,Cardiology,120,Yes,24.0,0.47,0.074,0.597,87.0,Standard,Active
+PVD-030,MTE Partner Hospital 30,South Asia,Bangladesh,Dental,150,No,15.5,0.53,0.378,0.552,79.1,Economy,Active
