@@ -25,7 +25,7 @@ mte-analytics/
 │   ├── funnel_analysis.py
 │   └── modeling_utils.py
 ├── reports/
-│   └── final_memo.md
+│   └── final_memo.docx
 ├── README.md
 └── requirements.txt
 ```
